@@ -6,5 +6,4 @@ matplotlib
 joblib
 gdown
 seaborn
-os
 numpy
