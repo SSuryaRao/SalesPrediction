@@ -6,7 +6,5 @@ matplotlib
 joblib
 gdown
 seaborn
-<<<<<<< HEAD
 os
-=======
->>>>>>> 44a62425a013aef4dc116661a3fc760afa65ada3
+numpy
